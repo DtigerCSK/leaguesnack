@@ -1,4 +1,4 @@
-# csgosnack
+# league snack
 
 Made with nw.js
 
