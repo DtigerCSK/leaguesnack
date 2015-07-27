@@ -2,10 +2,11 @@
   "name": "CSGOSNACK",
   "main": "index.html",
   "window": {
-  	"title": "CSGOSNACK - FREE VERSION",
+  	"title": "CSGOSNACK - LEAGUE",
     "toolbar": false,
     "width": 400,
     "height": 200,
-    "frame": false
+    "frame": false,
+    "icon": "app.ico"
   }
 }
